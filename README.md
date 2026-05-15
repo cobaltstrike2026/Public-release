@@ -1,9 +1,8 @@
 # Public-release
 Cobalt Strike is a legitimate penetration testing and red team tool used by cybersecurity professionals to simulate advanced cyberattacks. It helps organizations identify weaknesses in their networks by emulating real-world threat actors in a controlled and authorized environment for defense improvement.
-# Cobalt Strike README
 
 ## Overview
-Cobalt Strike is a commercial cybersecurity tool originally designed for red teaming and authorized penetration testing. Security professionals use it to simulate real-world cyberattacks in controlled environments so organizations can test and improve their defenses.
+Cobalt Strike is an ethical hacking tool designed for red teaming and authorized penetration testing. Security professionals use it to simulate real-world cyberattacks in controlled environments so organizations can test and improve their defenses.
 
 It became widely known because threat actors and ransomware groups later misused leaked or cracked versions of the software.
 
